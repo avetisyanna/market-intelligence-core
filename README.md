@@ -41,7 +41,7 @@ market-intelligence-core/
 │   └── analysis/           # Advanced business logic (Scripts 05-13)
 ├── tests/                  # Data quality and validation scripts
 └── README.md               # Project documentation
-
+```
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE).
